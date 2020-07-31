@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RoomDemo</string>
+    <string name="hint_word">Start typing…</string>
+    <string name="button_save">Save</string>
+    <string name="delete">"Entry deleted: "</string>
+    <string name="Description">A simple app to demonstrate the use of Room database in Android.
+        \n Click on button below to add data into database.
+        \n Swipe left or right on items to delete.</string>
+    <string name="empty">Nothing added to database as the text was empty.</string>
+    <string name="add">"Add text"</string>
+</resources>
